@@ -3266,7 +3266,7 @@ function RadientPaid:Window(text,maincolor)
 end
 
    local shift = RadientPaid:Window("")
-   local ShiftHub = shift:Server("MAP NAME", "# SHIFT X HUB! #0178")
+   local ShiftHub = shift:Server("", "# SHIFT X HUB! #0178")
    local TOOL = ShiftHub:Channel("TOOL")
    local SETTINGS = ShiftHub:Channel("SETTINGS")
    
