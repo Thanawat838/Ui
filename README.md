@@ -277,7 +277,7 @@ function RadientPaid:Window(text,maincolor)
    UserTag.Position = UDim2.new(0.230000004, 0, 0.275000013, 0)
    UserTag.Size = UDim2.new(0, 95, 0, 17)
    UserTag.Font = Enum.Font.GothamBold
-   UserTag.TextColor3 = Color3.fromRGB(233, 25, 42)
+   UserTag.TextColor3 = Color3.fromRGB(0, 255, 0)
    UserTag.TextSize = 13.000
    UserTag.TextTransparency = 0
    UserTag.TextXAlignment = Enum.TextXAlignment.Left
